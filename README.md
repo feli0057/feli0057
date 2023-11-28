@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/raldfelix" target="blank"><img src="https://img.shields.io/twitter/follow/raldfelix?logo=twitter&style=for-the-badge" alt="raldfelix" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **my own portfolio website**
 
 - 🌱 I’m currently learning **JavaScript, HTML, and CSS**
 
-- 👯 I’m looking to collaborate on **UX and mobile app and web design projects**
+- 👯 I’m looking to collaborate on **UI/UX and mobile app/web design projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/feli0057](https://github.com/feli0057)
 
