@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on **my own portfolio website**
 
-- 🌱 I’m currently learning **JavaScript, HTML, and CSS**
+- 🌱 I’m currently learning **Figma, HTML, CSS, and JavaScript**
 
 - 👯 I’m looking to collaborate on **UI/UX and mobile app/web design projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/feli0057](https://github.com/feli0057)
 
-- 💬 Ask me about **design and frontend developement**
+- 💬 Ask me about **design and front-end developement**
 
-- 📫 How to reach me **feli0057@algonquinlive.com**
+- 📫 How to reach me: **feli0057@algonquinlive.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/reginaldrfelix/](https://www.linkedin.com/in/reginaldrfelix/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/reginaldrfelix/](https://www.linkedin.com/in/reginaldrfelix/)
 
-- ⚡ Fun fact **I love anime, movies, music, and the Oxford comma.**
+- ⚡ Fun fact: **I love anime, movies, music, and the Oxford comma.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
