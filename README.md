@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reggie Felix</h1>
-<h3 align="center">Former UX writer from the Philippines, currently studying Mobile Application Design and Development at Algonquin College, Ottawa</h3>
+<h1 align="center">👋 Hi, I'm Reggie. 🇵🇭</h1>
+<h3 align="center">Mobile Application Design and Development student at Algonquin College, Ottawa | Former UX Writer and Copywriter</h3>
 
 <p align="left"> <a href="https://twitter.com/raldfelix" target="blank"><img src="https://img.shields.io/twitter/follow/raldfelix?logo=twitter&style=for-the-badge" alt="raldfelix" /></a> </p>
 
